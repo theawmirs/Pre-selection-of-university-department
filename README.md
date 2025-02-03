@@ -129,7 +129,7 @@ Feel free to submit issues and enhancement requests.
 
 ## Author
 
-امیرحسین کاظمی
+Amirhossein Kazemi
 
 ## License
 
